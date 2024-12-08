@@ -1,3 +1,6 @@
 //dotnet
 bin
 obj
+
+# Dependency directories
+**/node_modules/
